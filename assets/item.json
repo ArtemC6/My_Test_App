@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "0",
+      "text": "Моя машина",
+      "colorBackground": "0xFFDAE6FC",
+      "icon": "Icons.qr_code",
+      "iconColor": "0xFF4C89F2"
+    },
+    {
+      "id": "1",
+      "text": "Мой ребенок",
+      "colorBackground": "0xFFF5F2FD",
+      "icon": "Icons.qr_code",
+      "iconColor": "0xFFCDC1FE"
+    },
+    {
+      "id": "2",
+      "text": "Моя квартира",
+      "colorBackground": "0xFFE5F9E5",
+      "icon": "Icons.qr_code",
+      "iconColor": "0xFF78DA7F"
+    },
+    {
+      "id": "3",
+      "text": "Мой кошелек",
+      "colorBackground": "0xFFE3F1FE",
+      "icon": "Icons.qr_code",
+      "iconColor": "0xFF82CBF0"
+    },
+    {
+      "id": "4",
+      "text": "Мой телефон",
+      "colorBackground": "0xFFE4FBF5",
+      "icon": "Icons.qr_code",
+      "iconColor": "0xFF77ECD8"
+    }
+  ]
+}
